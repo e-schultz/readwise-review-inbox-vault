@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "660c623c3802bf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a31206a232b30ce",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b815135c4fa21ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a76c461f4cb554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ab28bb7aee6da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32c60581935074c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "099440c8e6236eea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb646089f21a0441",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8cb59625d13f5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e0bf1a49fc2a15a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8c24f7d06d3d621e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c67f13e1486f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md"
+              }
+            }
+          },
+          {
+            "id": "b116cf8ebe03702e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
+    "inbox/daily/2021-02-23.md",
+    "inbox/zets/202102230836 RW-R Recommends The Art.md",
+    "inbox/zets/202102230826 RW-R Some of the common reasons why DEI training can fall - one and done silver bullet.md",
+    "inbox/zets/202102230814  RW-R Avoid The Trap of Producitivy Porn.md",
+    "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md",
+    "inbox/zets/202102230840 ATT - The Art Of Chosing Quote.md",
+    "inbox/zets/202102230840.md",
+    "inbox/zets/202102230836.md",
+    "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md"
+  ]
+}
