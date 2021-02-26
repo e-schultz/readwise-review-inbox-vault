@@ -1,12 +1,12 @@
 
 ---
-tags: ["inbox/readwise-review"]
+tags: ["inbox/readwise-review/bookreview/b4370510/hl"]
 ---
 %%
 - meta
 	- created: 2021-02-23
 	- last updated: 2021-02-23
-	- citation key: [@grahamMakerScheduleManager2009]
+	- citation key: @grahamMakerScheduleManager2009
 	- readwise highlight: https://readwise.io/bookreview/4370510?highlight=83274944
 %%
 

@@ -1,11 +1,11 @@
 ---
-tags: ["inbox/readwise-review"]
+tags: ["inbox/readwise-review/bookreview/b7689861/hl"]
 ---
 %%
 - meta
 	- created: 2021-02-23
 	- last updated: 2021-02-23
-	- citation key: [@cunffPowerFlexibleConsistency2020]
+	- citation key: @cunffNotetakingNotemaking2021
 	- readwise highlight: https://readwise.io/bookreview/7689861?highlight=144630924
 %%
 
@@ -20,4 +20,4 @@ Instead - it's personal, it grows and evolves over time - you shape it to your n
 
 You can be influenced by other [[note-making systems]], try them out - see what works and what doesn't, and then make it your own.
 
-[^1]: [@cunffPowerFlexibleConsistency2020]
+[^1]: [@cunffNotetakingNotemaking2021]

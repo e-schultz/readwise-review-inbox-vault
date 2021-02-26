@@ -4,14 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "0a31206a232b30ce",
+        "id": "475c82152c0ffb62",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/zets/202102260816 RW-R Becoming a Manager - very few feel prepared - I've been there.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "93cd8196135b15f4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
-            "mode": "preview"
+            "file": "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "micro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
+                "file": "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md"
+                "file": "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md"
               }
             }
           },
@@ -115,6 +128,21 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d13064786e07f943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eeabc801694783c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
         ]
       }
     ],
@@ -122,15 +150,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
-    "inbox/daily/2021-02-23.md",
-    "inbox/zets/202102230836 RW-R Recommends The Art.md",
-    "inbox/zets/202102230826 RW-R Some of the common reasons why DEI training can fall - one and done silver bullet.md",
-    "inbox/zets/202102230814  RW-R Avoid The Trap of Producitivy Porn.md",
     "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md",
-    "inbox/zets/202102230840 ATT - The Art Of Chosing Quote.md",
-    "inbox/zets/202102230840.md",
-    "inbox/zets/202102230836.md",
-    "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md"
+    "inbox/zets/202102241221 Readwise Book Review.md",
+    "inbox/zets/202102251425 ELI5 - What does it mean for a system to be observable?.md",
+    "inbox/zets/202102251433 o11y goes beyond metrics.md",
+    "inbox/zets/202102251455 Manager - One on One - Questions - What long term progress.md",
+    "inbox/zets/202102251512 Manager - One on One - Questions - What blockers for priorities and goals.md",
+    "inbox/zets/202102260754  The complexity of high Cardinality and debugging.md",
+    "inbox/zets/202102260816 Becoming a Manager - very few feel prepared - I've been there.md",
+    "inbox/zets/202102260822 Becoming a Manager - unprepared for team meetings.md",
+    "inbox/zets/202102241154 RW-R Active Engagement is important to make the move to note making.md"
   ]
 }

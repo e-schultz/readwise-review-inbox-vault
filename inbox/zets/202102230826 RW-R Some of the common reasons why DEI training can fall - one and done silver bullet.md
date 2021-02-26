@@ -1,11 +1,11 @@
 ---
-tags: ["inbox/readwise-review"]
+tags: ["inbox/readwise-review/bookreview/b6276233/hl"]
 ---
 %%
 - meta
 	- created: 2021-02-23
 	- last updated: 2021-02-23
-	- citation key: [@kimHowNotSuck2020]
+	- citation key: @kimHowNotSuck2020
 	- readwise: https://readwise.io/bookreview/6276233?highlight=109757374
 %%
 
