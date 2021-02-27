@@ -22,10 +22,12 @@ tags: ["inbox/readwise-review/bookreview/bXXXXX/hl"]
 
 # Highlights 
 
-###### HL: 
+#### HL: 
 
-> the highlight
+> the highlight [^1]
 
+##### initial note:
 
+##### Notes:
 
 [^1]: citation

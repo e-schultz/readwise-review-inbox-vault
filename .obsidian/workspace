@@ -7,12 +7,27 @@
         "id": "14e4aa02a74379d2",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md",
+            "file": "inbox/zets/202102271101 RW-R - reading notes - schifferMailchimpEmployeesHave2021.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "8547f77b0d1c7762",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/zets/202102271145 RW-R - reading notes -  juvonibeckford45LessonsBecoming2020.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -77,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md",
+                "file": "inbox/zets/202102271101 RW-R - reading notes - schifferMailchimpEmployeesHave2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md"
+                "file": "inbox/zets/202102271101 RW-R - reading notes - schifferMailchimpEmployeesHave2021.md"
               }
             }
           },
@@ -116,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d13064786e07f943",
@@ -137,15 +152,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "inbox/zets/202102230806  RW-R the ADHD tax of context switching.md",
-    "inbox/zets/202102230759 ADHD Waiting Mode and how it can ruin a day.md",
-    "inbox/zets/202102230744 RW-R consciousness of an engagement can worry a hole day.md",
-    "inbox/zets/202102230814  RW-R Avoid The Trap of Producitivy Porn.md",
-    "inbox/zets/202102230826 RW-R Some of the common reasons why DEI training can fall - one and done silver bullet.md",
-    "inbox/zets/202102241209 RW-R Async Culture and the  Real-Time Urgency of Slck.md",
-    "inbox/zets/202102241158 RW-R Systematic thinking and thinking outside of the box.md",
-    "inbox/zets/202102241154 RW-R Active Engagement is important to make the move to note making.md",
-    "inbox/zets/202102230840 ATT - The Art Of Chosing Quote.md",
-    "inbox/zets/202102230836 RW-R Recommends The Art.md"
+    "inbox/zets/202102271101 RW-R - reading notes - schifferMailchimpEmployeesHave2021.md",
+    "Untitled.md",
+    "inbox/zets/202102271208 RW-R - reading notes - stommelHowUngrade2018.md",
+    "inbox/zets/202102271145 RW-R - reading notes -  juvonibeckford45LessonsBecoming2020.md",
+    "inbox/zets/202102271209.md",
+    "inbox/zets/202102271208.md",
+    "inbox/zets/202102271145.md",
+    "Templates/Readwise Review New.md",
+    "inbox/zets/202102271101.md",
+    "inbox/daily/2021-02-27.md"
   ]
 }
