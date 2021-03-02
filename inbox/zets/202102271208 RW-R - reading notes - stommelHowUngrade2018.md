@@ -6,8 +6,8 @@ tags: ["inbox/readwise-review/bookreview/b3847631/hl"]
 	- UID: 202102271209
 	- title: [202102271208 RW-R - reading notes - stommelHowUngrade2018]
 	- created: 2021-02-27 12:09
-	- last updated: 
-	- citation key:  
+	- last updated: 2021-03-01
+	- citation key: [@stommelHowUngrade2018]
 	- readwise highlight: https://readwise.io/bookreview/3847631
 	- obsidian url:  [202102271209](obsidian://open?vault=readwise-review-inbox&file=inbox%2Fzets%2F202102271208%20RW-R%20-%20reading%20notes%20-%20stommelHowUngrade2018)
 %%
